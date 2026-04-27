@@ -1,6 +1,6 @@
-# Retail-Sales-Inventory-Analysis
+# StockSense Analysis |
 
-# 🛍️ Retail Sales & Inventory Analysis 
+# 🛍️ StockSense Analysis |
 
 A data-driven Power BI dashboard that provides actionable insights into retail product performance, sales trends, and inventory management. Built using Power BI, DAX, and structured CSV datasets.
 
